@@ -1,2 +1,2 @@
 printf ("Hello")
-ptintf ("how do you do")
+printf ("how do you do")
