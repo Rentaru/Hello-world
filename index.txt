@@ -1,2 +1,1 @@
 printf ("Hello")
-printf ("how do you do")
