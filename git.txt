@@ -1,0 +1,19 @@
+git config --global user.name "name"
+git config --global user.email "mail"
+git config --list - инфо
+git remote add origin https://github/Rentaru/hello-world.git - для связки с сайтом
+git push -u origin master -  				это тоже для связки
+git status - проверка статуса нашего гита
+git add - добавить
+git add . - добавить все что есть
+git add навзание.формат -добавить определенный файл
+git rm --ceched имя файла и формат - это что-то вроде revert commit возрашает файл каким был
+git checkout --имя файла и формат  -откат
+git cheackout -b название ветки - создает и сразу же переходит в текующую ветку
+git branch - просмотреть какие у нас есть ветки
+git branch -v - последние коммиты этих веток
+git branch название ветки - создаем новую ветку но мы в нее не переключаемся
+git checkout название ветки - переключиться на ветку
+git push --set-upstream origin new - была какая-то ошибка нужно было прописать
+git merge - мержить
+
